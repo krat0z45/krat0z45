@@ -1,17 +1,11 @@
-## Hi there 👋
-class profile
-my name is diego esparza
-<!--
-**krat0z45/krat0z45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class unciafidelis{
+  constructor(name, age, sex, hobbie, work, gitHubStatus, stack){
+    this.name = "Diego Esparza"
+    this.age = 31
+    this.sex = "Male"
+    this.hobbie = "I like to play videogames and learning things... AT THE SAME TIME"
+    this.work = "PhD candidate with a ton of reading and research work <- i love my PhD!"
+    this.githubStatus = "Rookie"
+    this.stack = [js, vue, node, html, css, python, R]
+  }
+}
