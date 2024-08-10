@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```javascript
-class unciafidelis{
+class krat0z45{
   constructor(name, age, sex, hobbie, work, gitHubStatus, stack){
     this.name = "Diego Esparza"
     this.age = 31
