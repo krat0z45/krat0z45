@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+class profile
+my name is diego esparza
 <!--
 **krat0z45/krat0z45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
