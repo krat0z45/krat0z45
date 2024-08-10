@@ -7,7 +7,7 @@ class unciafidelis{
     this.sex = "Male"
     this.hobbie = "I like to play videogames and learning things... AT THE SAME TIME"
     this.work = "PhD candidate with a ton of reading and research work <- i love my PhD!"
-    this.githubStatus = "Rookie"
+    this.githubStatus = "krat0z45"
     this.stack = [js, vue, node, html, css, python, R]
   }
 }
